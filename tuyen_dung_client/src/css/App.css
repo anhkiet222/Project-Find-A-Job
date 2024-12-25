@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .box-email-verify{
     display: flex;
     align-items: center;
@@ -5,7 +9,6 @@
 }
 .box-email-verify svg{
    margin-left: 4px;
-    
 }
 .text-verify{
     color: blue;
